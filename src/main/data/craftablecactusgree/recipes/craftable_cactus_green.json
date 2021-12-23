@@ -1,0 +1,26 @@
+{
+  "group": "craftablecactusgree",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "tag": "minecraft:saplings"
+    },
+    "1": {
+      "tag": "minecraft:saplings"
+    },
+    "2": {
+      "tag": "minecraft:saplings"
+    },
+    "3": {
+      "tag": "minecraft:saplings"
+    }
+  },
+  "result": {
+    "item": "minecraft:green_dye",
+    "count": 1
+  }
+}
